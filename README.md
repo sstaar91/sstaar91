@@ -12,4 +12,4 @@
 
 ![sstaar91's GitHub stats](https://github-readme-stats.vercel.app/api?username=sstaar91&show_icons=true&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sstaar91)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sstaar91&layout=compact)](https://github.com/sstaar91/github-readme-stats)
