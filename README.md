@@ -7,9 +7,9 @@
     
 </div>
 
-## 포트폴리오
+<!-- ## 포트폴리오
 
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/KIM-MYUNG-SUNG-6166f7cb7478406fa018a536a2d3f532)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/KIM-MYUNG-SUNG-6166f7cb7478406fa018a536a2d3f532) -->
 
 ## 스택
 
