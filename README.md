@@ -1,4 +1,4 @@
-<h1 align="center">👋 HI! 👋</p>FE 개발자 김명성입니다</h1>
+<h1 align="center">👋  WELCOME!! 👋</h1>
 
 <div align="center">
     
