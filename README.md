@@ -9,19 +9,22 @@
 
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/KIM-MYUNG-SUNG-6166f7cb7478406fa018a536a2d3f532) -->
 
-## Skills
+## 🛠 Tech Stack
 
 <div>
-    <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/styled--components-8D5078?style=flat&logo=styled-components&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Apollo--GraphQL-311C87?style=flat&logo=apollo-graphQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
 
-|JavaScript|TypeScript|React|Sass|
-| :--: | :--: | :--: | :--: |
-| <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" /></div> |
+<div>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+</div>
 
+<img src="https://img.shields.io/badge/Apollo--GraphQL-311C87?style=for-the-badge&logo=apollo-graphQL&logoColor=white"/>
 
 ## Tool
 <div>
@@ -32,4 +35,4 @@
 ## Status
 [![sstaar91's GitHub stats](https://github-readme-stats.vercel.app/api?username=sstaar91&show_icons=true&theme=highcontrast)](https://github.com/sstaar91/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sstaar91&layout=compact&theme=highcontrast&langs_count=8)](https://github.com/sstaar91/github-readme-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=sstaar91&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
